@@ -1,0 +1,153 @@
+[
+  {
+    "id": "SEK-001",
+    "prowadzacy": "dr inż. Jan Kowalski",
+    "limit_osob": 12,
+    "ilosc_zapisanych_osob": 12,
+    "stan": "zamknięta",
+    "zapisani_studenci": [
+      "Kamil Nowak",
+      "Zuzanna Kowalczyk",
+      "Piotr Zieliński",
+      "Maja Szymańska",
+      "Michał Woźniak",
+      "Julia Dąbrowska",
+      "Jakub Kozłowski",
+      "Lena Jankowska",
+      "Kacper Mazur",
+      "Alicja Krawczyk",
+      "Bartosz Piotrowski",
+      "Oliwia Grabowska"
+    ]
+  },
+  {
+    "id": "SEK-002",
+    "prowadzacy": "dr Anna Nowak",
+    "limit_osob": 10,
+    "ilosc_zapisanych_osob": 4,
+    "stan": "otwarta",
+    "zapisani_studenci": [
+      "Mateusz Wieczorek",
+      "Weronika Jabłońska",
+      "Filip Król",
+      "Natalia Majewska"
+    ]
+  },
+  {
+    "id": "SEK-003",
+    "prowadzacy": "prof. Piotr Wiśniewski",
+    "limit_osob": 11,
+    "ilosc_zapisanych_osob": 0,
+    "stan": "utworzona",
+    "zapisani_studenci": []
+  },
+  {
+    "id": "SEK-004",
+    "prowadzacy": "mgr inż. Tomasz Wójcik",
+    "limit_osob": 10,
+    "ilosc_zapisanych_osob": 10,
+    "stan": "zamknięta",
+    "zapisani_studenci": [
+      "Adam Olszewski",
+      "Wiktoria Stępień",
+      "Szymon Malinowski",
+      "Maria Pawłowska",
+      "Jan Dudek",
+      "Karolina Adamczyk",
+      "Tomasz Sikora",
+      "Aleksandra Walczak",
+      "Krzysztof Lis",
+      "Anna Włodarczyk"
+    ]
+  },
+  {
+    "id": "SEK-005",
+    "prowadzacy": "dr inż. Katarzyna Kowalczyk",
+    "limit_osob": 12,
+    "ilosc_zapisanych_osob": 5,
+    "stan": "otwarta",
+    "zapisani_studenci": [
+      "Piotr Kaczmarek",
+      "Magdalena Szymczak",
+      "Dawid Baran",
+      "Patrycja Rutkowska",
+      "Kamil Michalak"
+    ]
+  },
+  {
+    "id": "SEK-006",
+    "prowadzacy": "mgr Maciej Kamiński",
+    "limit_osob": 11,
+    "ilosc_zapisanych_osob": 0,
+    "stan": "utworzona",
+    "zapisani_studenci": []
+  },
+  {
+    "id": "SEK-007",
+    "prowadzacy": "prof. Michał Lewandowski",
+    "limit_osob": 12,
+    "ilosc_zapisanych_osob": 12,
+    "stan": "zamknięta",
+    "zapisani_studenci": [
+      "Maciej Ostrowski",
+      "Ewa Tomaszewska",
+      "Paweł Zawadzki",
+      "Monika Jasińska",
+      "Marcin Chmielewski",
+      "Agnieszka Borkowska",
+      "Łukasz Czarnecki",
+      "Katarzyna Urbańska",
+      "Michał Maciejewski",
+      "Izabela Sikorska",
+      "Tomasz Kalinowski",
+      "Weronika Bąk"
+    ]
+  },
+  {
+    "id": "SEK-008",
+    "prowadzacy": "dr inż. Agnieszka Zielińska",
+    "limit_osob": 10,
+    "ilosc_zapisanych_osob": 6,
+    "stan": "otwarta",
+    "zapisani_studenci": [
+      "Dominik Wróbel",
+      "Kinga Marciniak",
+      "Bartłomiej Kurek",
+      "Paulina Sobczak",
+      "Sebastian Krawczyk",
+      "Marta Zając"
+    ]
+  },
+  {
+    "id": "SEK-009",
+    "prowadzacy": "dr Paweł Szymański",
+    "limit_osob": 11,
+    "ilosc_zapisanych_osob": 11,
+    "stan": "zamknięta",
+    "zapisani_studenci": [
+      "Artur Królikowski",
+      "Joanna Przybylska",
+      "Radosław Lisowski",
+      "Sylwia Kaczmarczyk",
+      "Krystian Sokołowski",
+      "Dorota Węgrzyn",
+      "Grzegorz Czerwiński",
+      "Justyna Mikołajczyk",
+      "Arkadiusz Kubiak",
+      "Ewelina Głowacka",
+      "Przemysław Burek"
+    ]
+  },
+  {
+    "id": "SEK-010",
+    "prowadzacy": "mgr inż. Magdalena Woźniak",
+    "limit_osob": 10,
+    "ilosc_zapisanych_osob": 3,
+    "stan": "otwarta",
+    "zapisani_studenci": [
+      "Wojciech Jastrzębski",
+      "Karol Długosz",
+      "Anita Sadowska"
+    ]
+  }
+]

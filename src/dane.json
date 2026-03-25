@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "temat": "System rezerwacji sal wykładowych z modułem powiadomień",
+    "prowadzacy": "dr inż. Jan Kowalski",
+    "status": "aktywny"
+  },
+  {
+    "id": 2,
+    "temat": "Aplikacja mobilna do nauki języków obcych z użyciem fiszek",
+    "prowadzacy": "dr Anna Nowak",
+    "status": "nieaktywny"
+  },
+  {
+    "id": 3,
+    "temat": "Analiza sentymentu w recenzjach produktów z wykorzystaniem NLP",
+    "prowadzacy": "prof. Piotr Wiśniewski",
+    "status": "aktywny"
+  },
+  {
+    "id": 4,
+    "temat": "Gra platformowa 2D w silniku Unity",
+    "prowadzacy": "mgr inż. Tomasz Wójcik",
+    "status": "aktywny"
+  },
+  {
+    "id": 5,
+    "temat": "Platforma e-commerce z systemem rekomendacji opartym na AI",
+    "prowadzacy": "dr inż. Katarzyna Kowalczyk",
+    "status": "nieaktywny"
+  },
+  {
+    "id": 6,
+    "temat": "Rozproszony system zarządzania relacjami z klientami (CRM)",
+    "prowadzacy": "mgr Maciej Kamiński",
+    "status": "aktywny"
+  },
+  {
+    "id": 7,
+    "temat": "Aplikacja do rozpoznawania twarzy w systemach kontroli dostępu",
+    "prowadzacy": "prof. Michał Lewandowski",
+    "status": "nieaktywny"
+  },
+  {
+    "id": 8,
+    "temat": "Centrala sterująca dla urządzeń IoT w Smart Home",
+    "prowadzacy": "dr inż. Agnieszka Zielińska",
+    "status": "aktywny"
+  },
+  {
+    "id": 9,
+    "temat": "Mobilny asystent biegacza z integracją map i GPS",
+    "prowadzacy": "dr Paweł Szymański",
+    "status": "aktywny"
+  },
+  {
+    "id": 10,
+    "temat": "Bezpieczny menedżer haseł z szyfrowaniem end-to-end",
+    "prowadzacy": "mgr inż. Magdalena Woźniak",
+    "status": "nieaktywny"
+  },
+  {
+    "id": 11,
+    "temat": "Klon popularnego serwisu mikroblogowego (np. Twitter)",
+    "prowadzacy": "dr inż. Jan Kowalski",
+    "status": "aktywny"
+  },
+  {
+    "id": 12,
+    "temat": "Narzędzie do monitorowania zasobów serwerowych w czasie rzeczywistym",
+    "prowadzacy": "dr Anna Nowak",
+    "status": "aktywny"
+  },
+  {
+    "id": 13,
+    "temat": "Interaktywna wizualizacja danych giełdowych z użyciem D3.js",
+    "prowadzacy": "prof. Piotr Wiśniewski",
+    "status": "nieaktywny"
+  },
+  {
+    "id": 14,
+    "temat": "System obsługi elektronicznej dokumentacji medycznej pacjentów",
+    "prowadzacy": "mgr inż. Tomasz Wójcik",
+    "status": "aktywny"
+  },
+  {
+    "id": 15,
+    "temat": "Aplikacja do agregacji i zamawiania jedzenia online",
+    "prowadzacy": "dr inż. Katarzyna Kowalczyk",
+    "status": "aktywny"
+  },
+  {
+    "id": 16,
+    "temat": "Detekcja chorób roślin uprawnych na podstawie zdjęć liści",
+    "prowadzacy": "mgr Maciej Kamiński",
+    "status": "nieaktywny"
+  },
+  {
+    "id": 17,
+    "temat": "Autorski silnik szachowy z algorytmem Minimax",
+    "prowadzacy": "prof. Michał Lewandowski",
+    "status": "aktywny"
+  },
+  {
+    "id": 18,
+    "temat": "Kantor internetowy z automatycznym pobieraniem kursów walut",
+    "prowadzacy": "dr inż. Agnieszka Zielińska",
+    "status": "nieaktywny"
+  },
+  {
+    "id": 19,
+    "temat": "System aukcyjny z mechanizmem licytacji w czasie rzeczywistym",
+    "prowadzacy": "dr Paweł Szymański",
+    "status": "aktywny"
+  },
+  {
+    "id": 20,
+    "temat": "Wykrywanie anomalii w ruchu sieciowym z użyciem sieci neuronowych",
+    "prowadzacy": "mgr inż. Magdalena Woźniak",
+    "status": "aktywny"
+  },
+  {
+    "id": 21,
+    "temat": "Aplikacja wspierająca segregację śmieci i recykling",
+    "prowadzacy": "dr inż. Jan Kowalski",
+    "status": "nieaktywny"
+  },
+  {
+    "id": 22,
+    "temat": "Chatbot oparty na LLM do automatycznej obsługi klienta",
+    "prowadzacy": "dr Anna Nowak",
+    "status": "aktywny"
+  },
+  {
+    "id": 23,
+    "temat": "System elektronicznego obiegu dokumentów w firmie",
+    "prowadzacy": "prof. Piotr Wiśniewski",
+    "status": "aktywny"
+  },
+  {
+    "id": 24,
+    "temat": "Przeglądarkowy portfel do obsługi wybranych kryptowalut",
+    "prowadzacy": "mgr inż. Tomasz Wójcik",
+    "status": "nieaktywny"
+  },
+  {
+    "id": 25,
+    "temat": "Gra multiplayer w przeglądarce wykorzystująca WebSockets",
+    "prowadzacy": "dr inż. Katarzyna Kowalczyk",
+    "status": "aktywny"
+  },
+  {
+    "id": 26,
+    "temat": "Analiza jakości snu na podstawie danych ze smartwatchy",
+    "prowadzacy": "mgr Maciej Kamiński",
+    "status": "nieaktywny"
+  },
+  {
+    "id": 27,
+    "temat": "System zarządzania i śledzenia floty pojazdów logistycznych",
+    "prowadzacy": "prof. Michał Lewandowski",
+    "status": "aktywny"
+  },
+  {
+    "id": 28,
+    "temat": "Platforma e-learningowa z wbudowanym systemem grywalizacji",
+    "prowadzacy": "dr inż. Agnieszka Zielińska",
+    "status": "aktywny"
+  },
+  {
+    "id": 29,
+    "temat": "Aplikacja wspomagająca budowanie i śledzenie nawyków",
+    "prowadzacy": "dr Paweł Szymański",
+    "status": "nieaktywny"
+  },
+  {
+    "id": 30,
+    "temat": "Zautomatyzowany skaner podatności OWASP dla aplikacji webowych",
+    "prowadzacy": "mgr inż. Magdalena Woźniak",
+    "status": "aktywny"
+  },
+  {
+    "id": 31,
+    "temat": "Globalny system wyszukiwania i rezerwacji biletów lotniczych",
+    "prowadzacy": "dr inż. Jan Kowalski",
+    "status": "nieaktywny"
+  },
+  {
+    "id": 32,
+    "temat": "Wydajny klasyfikator wiadomości e-mail (Spam/Ham)",
+    "prowadzacy": "dr Anna Nowak",
+    "status": "aktywny"
+  },
+  {
+    "id": 33,
+    "temat": "Aplikacja Augmented Reality (AR) do wizualizacji mebli w pomieszczeniu",
+    "prowadzacy": "prof. Piotr Wiśniewski",
+    "status": "aktywny"
+  },
+  {
+    "id": 34,
+    "temat": "Tablica Kanban do zwinnego zarządzania projektami",
+    "prowadzacy": "mgr inż. Tomasz Wójcik",
+    "status": "nieaktywny"
+  },
+  {
+    "id": 35,
+    "temat": "System generowania listów przewozowych i śledzenia paczek",
+    "prowadzacy": "dr inż. Katarzyna Kowalczyk",
+    "status": "aktywny"
+  },
+  {
+    "id": 36,
+    "temat": "Agregator i streszczacz artykułów prasowych z użyciem uczenia maszynowego",
+    "prowadzacy": "mgr Maciej Kamiński",
+    "status": "aktywny"
+  },
+  {
+    "id": 37,
+    "temat": "Kreator optymalnych tras i planów wycieczek turystycznych",
+    "prowadzacy": "prof. Michał Lewandowski",
+    "status": "nieaktywny"
+  },
+  {
+    "id": 38,
+    "temat": "Platforma do anonimowego oceniania prowadzących przez studentów",
+    "prowadzacy": "dr inż. Agnieszka Zielińska",
+    "status": "aktywny"
+  },
+  {
+    "id": 39,
+    "temat": "Narzędzie do scentralizowanego gromadzenia i analizy logów aplikacyjnych",
+    "prowadzacy": "dr Paweł Szymański",
+    "status": "aktywny"
+  },
+  {
+    "id": 40,
+    "temat": "Symulator miejskiego ruchu drogowego z optymalizacją sygnalizacji świetlnej",
+    "prowadzacy": "mgr inż. Magdalena Woźniak",
+    "status": "nieaktywny"
+  },
+  {
+    "id": 41,
+    "temat": "Portal społecznościowy łączący schroniska dla zwierząt z osobami adoptującymi",
+    "prowadzacy": "dr inż. Jan Kowalski",
+    "status": "aktywny"
+  },
+  {
+    "id": 42,
+    "temat": "Kompleksowy system zarządzania zapasami (WMS) dla małych magazynów",
+    "prowadzacy": "dr Anna Nowak",
+    "status": "aktywny"
+  },
+  {
+    "id": 43,
+    "temat": "Optyczne rozpoznawanie znaków (OCR) dla tablic rejestracyjnych pojazdów",
+    "prowadzacy": "prof. Piotr Wiśniewski",
+    "status": "nieaktywny"
+  },
+  {
+    "id": 44,
+    "temat": "Aplikacja randkowa dobierająca pary na podstawie szczegółowych preferencji hobby",
+    "prowadzacy": "mgr inż. Tomasz Wójcik",
+    "status": "aktywny"
+  },
+  {
+    "id": 45,
+    "temat": "Lokalna platforma crowdfundingu dla inicjatyw studenckich",
+    "prowadzacy": "dr inż. Katarzyna Kowalczyk",
+    "status": "nieaktywny"
+  },
+  {
+    "id": 46,
+    "temat": "Automatyczny detektor plagiatów w zadaniach programistycznych",
+    "prowadzacy": "mgr Maciej Kamiński",
+    "status": "aktywny"
+  },
+  {
+    "id": 47,
+    "temat": "Zdecentralizowany system głosowania oparty na technologii smart contractów",
+    "prowadzacy": "prof. Michał Lewandowski",
+    "status": "aktywny"
+  },
+  {
+    "id": 48,
+    "temat": "Aplikacja wspierająca osoby starsze z modułem przypomnień o lekach",
+    "prowadzacy": "dr inż. Agnieszka Zielińska",
+    "status": "nieaktywny"
+  },
+  {
+    "id": 49,
+    "temat": "Wirtualny asystent głosowy integrujący się z uczelnianym systemem planu zajęć",
+    "prowadzacy": "dr Paweł Szymański",
+    "status": "aktywny"
+  },
+  {
+    "id": 50,
+    "temat": "Interaktywna mapa zanieczyszczeń powietrza na podstawie danych z otwartych API",
+    "prowadzacy": "mgr inż. Magdalena Woźniak",
+    "status": "aktywny"
+  }
+]

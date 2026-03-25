@@ -1,0 +1,74 @@
+[
+  {
+    "id": "S013",
+    "imie": "Mateusz",
+    "nazwisko": "Wieczorek",
+    "ocena": 5.0
+  },
+  {
+    "id": "S014",
+    "imie": "Weronika",
+    "nazwisko": "Jabłońska",
+    "ocena": 3.0
+  },
+  {
+    "id": "S015",
+    "imie": "Filip",
+    "nazwisko": "Król",
+    "ocena": 4.5
+  },
+  {
+    "id": "S016",
+    "imie": "Natalia",
+    "nazwisko": "Majewska",
+    "ocena": 2.0
+  },
+  {
+    "id": "S017",
+    "imie": "Adam",
+    "nazwisko": "Olszewski",
+    "ocena": 4.0
+  },
+  {
+    "id": "S018",
+    "imie": "Wiktoria",
+    "nazwisko": "Stępień",
+    "ocena": 3.5
+  },
+  {
+    "id": "S019",
+    "imie": "Szymon",
+    "nazwisko": "Malinowski",
+    "ocena": 5.0
+  },
+  {
+    "id": "S020",
+    "imie": "Maria",
+    "nazwisko": "Pawłowska",
+    "ocena": 4.5
+  },
+  {
+    "id": "S021",
+    "imie": "Jan",
+    "nazwisko": "Dudek",
+    "ocena": 3.0
+  },
+  {
+    "id": "S022",
+    "imie": "Karolina",
+    "nazwisko": "Adamczyk",
+    "ocena": 4.0
+  },
+  {
+    "id": "S023",
+    "imie": "Tomasz",
+    "nazwisko": "Sikora",
+    "ocena": 2.0
+  },
+  {
+    "id": "S024",
+    "imie": "Aleksandra",
+    "nazwisko": "Walczak",
+    "ocena": 3.5
+  }
+]

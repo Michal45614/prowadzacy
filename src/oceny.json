@@ -1,0 +1,74 @@
+[
+  {
+    "id": "S001",
+    "imie": "Kamil",
+    "nazwisko": "Nowak",
+    "ocena": 4.5
+  },
+  {
+    "id": "S002",
+    "imie": "Zuzanna",
+    "nazwisko": "Kowalczyk",
+    "ocena": 3.0
+  },
+  {
+    "id": "S003",
+    "imie": "Piotr",
+    "nazwisko": "Zieliński",
+    "ocena": 5.0
+  },
+  {
+    "id": "S004",
+    "imie": "Maja",
+    "nazwisko": "Szymańska",
+    "ocena": 2.0
+  },
+  {
+    "id": "S005",
+    "imie": "Michał",
+    "nazwisko": "Woźniak",
+    "ocena": 3.5
+  },
+  {
+    "id": "S006",
+    "imie": "Julia",
+    "nazwisko": "Dąbrowska",
+    "ocena": 4.0
+  },
+  {
+    "id": "S007",
+    "imie": "Jakub",
+    "nazwisko": "Kozłowski",
+    "ocena": 5.0
+  },
+  {
+    "id": "S008",
+    "imie": "Lena",
+    "nazwisko": "Jankowska",
+    "ocena": 3.0
+  },
+  {
+    "id": "S009",
+    "imie": "Kacper",
+    "nazwisko": "Mazur",
+    "ocena": 4.5
+  },
+  {
+    "id": "S010",
+    "imie": "Alicja",
+    "nazwisko": "Krawczyk",
+    "ocena": 2.0
+  },
+  {
+    "id": "S011",
+    "imie": "Bartosz",
+    "nazwisko": "Piotrowski",
+    "ocena": 3.5
+  },
+  {
+    "id": "S012",
+    "imie": "Oliwia",
+    "nazwisko": "Grabowska",
+    "ocena": 4.0
+  }
+]
